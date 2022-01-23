@@ -1,6 +1,5 @@
 import psutil
 import datetime
-import time
 import os
 
 fileName = "myLoggedData.csv"
